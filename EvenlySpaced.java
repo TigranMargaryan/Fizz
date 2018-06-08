@@ -3,7 +3,7 @@
   Return true if the three values are evenly spaced,
   so the difference between small and medium is the same as the difference between medium and large.
   
-  Example evenlySpaced(2, 4, 6)  //true
+  Example evenlySpaced(2, 4, 6) 	 //true
 		  evenlySpaced(4, 6, 2)  //true
 		  evenlySpaced(4, 6, 3)  //false
  */

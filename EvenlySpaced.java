@@ -19,7 +19,7 @@ public class EvenlySpaced {
 	public static void main(String[] args) 
 	{
 
-		System.out.println(evenlySpaced(4, 8, 12)); //true
+		System.out.println(evenlySpaced(4, 8, 12)); //true solution
  
 	}
 }
